@@ -1,1 +1,1 @@
-# CodeFirst CURD Operation In MVC with EF
+# CodeFirst CURD Operations In DotNetCore With MVC and EF
